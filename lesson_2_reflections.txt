@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it creates the repository object and tracking files together with other required control information for git.
+
+
