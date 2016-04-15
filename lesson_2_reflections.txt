@@ -18,3 +18,11 @@ you can use diff and status to review the changes to see if they form a logical 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when you want to have separate strands of development
+
+
+How do the diagrams help you visualize the branch structure?
+
+
+to see reachabiliy and fork points
+
+
