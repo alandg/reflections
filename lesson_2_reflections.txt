@@ -2,4 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 it creates the repository object and tracking files together with other required control information for git.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+this is a holding area that lets us marshall a commit payload separately before actually commiting the data.  this provides a chance to review and modify this.
 
