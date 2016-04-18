@@ -28,4 +28,6 @@ separate directories/copies, a lot of emails and diff's - might not need to know
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+can explore separate strand of development without impacting master and merge in later if 
+it's successful.  allows for commit sequences etc for these separate developments.
+
