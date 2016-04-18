@@ -23,7 +23,7 @@ means you can do logs, merges and diffs offline from the last known state
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+separate directories/copies, a lot of emails and diff's - might not need to know about git etc but would be much harder.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
