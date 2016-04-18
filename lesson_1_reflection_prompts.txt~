@@ -26,8 +26,8 @@ git log will list the commits with comments and git diff can display the changes
 How might using version control make you more confident to make changes that
 could break something?
 
-it makes it possible to back-out the changes and helps identify issues when a change doesn't work.
+    Fill in your answer here
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-software developement!
+    Fill in your answer here
